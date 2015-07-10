@@ -1,1 +1,2 @@
 *.gz  filter=fat -crlf
+*.gif  filter=fat -crlf
